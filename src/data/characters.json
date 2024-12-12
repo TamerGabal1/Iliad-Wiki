@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Achilles",
+      "relatedCharacters": ["Patroclus", "Hector"],
+      "events": ["Duel with Hector", "Wrath of Achilles"],
+      "funFacts": ["Weak spot is his heel.", "His mother dipped him in the River Styx."]
+    },
+    {
+      "name": "Agamemnon",
+      "relatedCharacters": ["Achilles", "Menelaus"],
+      "events": ["Wrath of Achilles"],
+      "funFacts": ["Leader of the Greek forces in the Trojan War.", "Brother of Menelaus."]
+    },
+    {
+      "name": "Andromache",
+      "relatedCharacters": ["Hector"],
+      "events": ["Fall of Troy"],
+      "funFacts": ["Known for her devotion to Hector.", "Fears for her son's future."]
+    },
+    {
+      "name": "Hector",
+      "relatedCharacters": ["Achilles", "Paris", "Andromache"],
+      "events": ["Duel with Achilles", "Defends Troy"],
+      "funFacts": ["Troy's greatest warrior.", "Deeply devoted to his family."]
+    },
+    {
+      "name": "Helen",
+      "relatedCharacters": ["Paris", "Menelaus"],
+      "events": ["Abduction of Helen"],
+      "funFacts": ["Known as the most beautiful woman in the world.", "Her abduction sparked the Trojan War."]
+    },
+    {
+      "name": "Menelaus",
+      "relatedCharacters": ["Helen", "Agamemnon"],
+      "events": ["Abduction of Helen"],
+      "funFacts": ["King of Sparta.", "Fought to reclaim his wife Helen."]
+    },
+    {
+      "name": "Odysseus",
+      "relatedCharacters": ["Achilles", "Agamemnon"],
+      "events": ["Trojan Horse"],
+      "funFacts": ["Known for his cunning and intelligence.", "Planned the Trojan Horse strategy."]
+    },
+    {
+      "name": "Paris",
+      "relatedCharacters": ["Hector", "Helen"],
+      "events": ["Judgment of Paris", "Abduction of Helen"],
+      "funFacts": ["Started the Trojan War by choosing Aphrodite.", "Killed Achilles with an arrow."]
+    },
+    {
+      "name": "Patroclus",
+      "relatedCharacters": ["Achilles"],
+      "events": ["Death of Patroclus"],
+      "funFacts": ["Killed by Hector while wearing Achilles' armor."]
+    },
+    {
+      "name": "Priam",
+      "relatedCharacters": ["Hector", "Paris"],
+      "events": ["Fall of Troy"],
+      "funFacts": ["King of Troy.", "Begged Achilles for Hector's body."]
+    }
+  ]

@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Wrath of Achilles",
+      "book": "Book 1",
+      "details": "Achilles refuses to fight after a dispute with Agamemnon."
+    },
+    {
+      "id": "2",
+      "name": "Abduction of Helen",
+      "book": "Prelude",
+      "details": "Paris abducts Helen, starting the Trojan War."
+    },
+    {
+      "id": "3",
+      "name": "Death of Patroclus",
+      "book": "Book 16",
+      "details": "Patroclus is killed by Hector during a battle while wearing Achilles' armor."
+    },
+    {
+      "id": "4",
+      "name": "Duel with Hector",
+      "book": "Book 22",
+      "details": "Achilles fights Hector and kills him to avenge Patroclus."
+    },
+    {
+      "id": "5",
+      "name": "Judgment of Paris",
+      "book": "Prelude",
+      "details": "Paris chooses Aphrodite over Hera and Athena, leading to the Trojan War."
+    },
+    {
+      "id": "6",
+      "name": "Trojan Horse",
+      "book": "Postscript",
+      "details": "Odysseus' plan leads to the Greek victory and the fall of Troy."
+    },
+    {
+      "id": "7",
+      "name": "Fall of Troy",
+      "book": "Postscript",
+      "details": "Troy is destroyed by the Greeks after a decade-long war."
+    }
+  ]
