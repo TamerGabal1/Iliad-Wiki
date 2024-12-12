@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Iliad-Wiki/static/css/main.6194f4e6.css",
+    "main.js": "/Iliad-Wiki/static/js/main.2126513c.js",
+    "index.html": "/Iliad-Wiki/index.html",
+    "main.6194f4e6.css.map": "/Iliad-Wiki/static/css/main.6194f4e6.css.map",
+    "main.2126513c.js.map": "/Iliad-Wiki/static/js/main.2126513c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6194f4e6.css",
+    "static/js/main.2126513c.js"
+  ]
+}
