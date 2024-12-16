@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Iliad-Wiki/static/css/main.fc7f9a23.css",
-    "main.js": "/Iliad-Wiki/static/js/main.253f7149.js",
+    "main.css": "/Iliad-Wiki/static/css/main.1c95edcc.css",
+    "main.js": "/Iliad-Wiki/static/js/main.624af1b4.js",
     "index.html": "/Iliad-Wiki/index.html",
-    "main.fc7f9a23.css.map": "/Iliad-Wiki/static/css/main.fc7f9a23.css.map",
-    "main.253f7149.js.map": "/Iliad-Wiki/static/js/main.253f7149.js.map"
+    "main.1c95edcc.css.map": "/Iliad-Wiki/static/css/main.1c95edcc.css.map",
+    "main.624af1b4.js.map": "/Iliad-Wiki/static/js/main.624af1b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc7f9a23.css",
-    "static/js/main.253f7149.js"
+    "static/css/main.1c95edcc.css",
+    "static/js/main.624af1b4.js"
   ]
 }
